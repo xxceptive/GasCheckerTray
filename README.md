@@ -5,11 +5,6 @@ Keep your eyes on gas price whenever you want 👁️👁️
 
 # How to run
 
-
-**If you want to run via .exe:**
-
-1. Just run .exe -_-
-
 **If you want to run via .py:**
 
 1. Open cmd
