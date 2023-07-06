@@ -1,12 +1,10 @@
-## GasCheckerTray
+# GasCheckerTray
 
----
 
 Keep your eyes on gas price whenever you want 👁️👁️
 
-## How to run
+# How to run
 
----
 
 **If you want to run via .exe:**
 
@@ -19,9 +17,8 @@ Keep your eyes on gas price whenever you want 👁️👁️
 3. Type pip install -r requirements.txt
 4. After downloading finished type: python [BatchWalletGenerate.py](http://batchwalletgenerate.py/) (running the script)
 
-## Media
+# Media
 
----
 
 TG: https://t.me/xxceptive_eth
 
