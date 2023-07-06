@@ -17,7 +17,7 @@ Keep your eyes on gas price whenever you want 👁️👁️
 3. Type pip install -r requirements.txt
 4. After downloading finished type: python GasCheckerTray.py (running the script)
 
-# Media
+## Media
 
 
 TG: https://t.me/xxceptive_eth
