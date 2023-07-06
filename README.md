@@ -15,7 +15,7 @@ Keep your eyes on gas price whenever you want 👁️👁️
 1. Open cmd
 2. Type cd /d ScriptDirectory (if theres an error occur, type the same but without /d)
 3. Type pip install -r requirements.txt
-4. After downloading finished type: python [BatchWalletGenerate.py](http://batchwalletgenerate.py/) (running the script)
+4. After downloading finished type: python GasCheckerTray.py (running the script)
 
 # Media
 
