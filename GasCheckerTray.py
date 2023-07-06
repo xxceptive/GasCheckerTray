@@ -68,8 +68,7 @@ def create_image(gwei):
     painter.drawText(QtCore.QRectF(0, 0, width, height), QtCore.Qt.AlignCenter, str(gwei))
     painter.end()
 
-    pixmap = QtGui.QPixmap.fromImage(image)  # Convert QImage to QPixmap
-
+    pixmap = QtGui.QPixmap.fromImage(image)
     return pixmap
 
 
