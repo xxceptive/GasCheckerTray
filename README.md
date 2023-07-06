@@ -8,7 +8,7 @@ Keep your eyes on gas price whenever you want 👁️👁️
 
 **If you want to run via .exe:**
 
-1. Just run .exe 🥸
+1. Just run .exe -_-
 
 **If you want to run via .py:**
 
