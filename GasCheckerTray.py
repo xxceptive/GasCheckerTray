@@ -63,7 +63,12 @@ def create_image(gwei):
     image.fill(color1)
     painter = QtGui.QPainter(image)
 
-    painter.setFont(QtGui.QFont("Arial", 23))
+    if gwei > 99:
+        painter.setFont(QtGui.QFont("Arial", 15))
+        painter.font().setBold(True)
+    else:
+        painter.setFont(QtGui.QFont("Arial", 23))
+        
     painter.setPen(color2)
     painter.drawText(QtCore.QRectF(0, 0, width, height), QtCore.Qt.AlignCenter, str(gwei))
     painter.end()
